@@ -1,0 +1,18 @@
+.heading{
+    color: red;
+}
+img{
+    height: 200px;
+    width: 250px;
+}
+li{
+    list-style: none;
+    color: rgb(31, 152, 176)
+    ;
+}
+.paragraph{
+    color: aquamarine;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: larger;
+text-align: center;
+}
